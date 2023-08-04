@@ -1,5 +1,5 @@
 # Noteapp
-![todo](https://github.com/javadashtiani/TodoList/assets/134012615/30b0e743-aded-4613-898c-761e547db101)
+![note app](https://github.com/javadashtiani/Noteapp/assets/134012615/0f932122-654e-4841-bea4-a659de7334dd)
 - 🔗 https://javadashtiani.github.io/Noteapp/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
